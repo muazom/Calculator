@@ -26,4 +26,4 @@ A simple, stylish calculator built with **HTML**, **CSS**, and a bit of **JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Calculator.git
+   git clone https://github.com/muazom/Calculator.git
