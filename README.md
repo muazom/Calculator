@@ -15,13 +15,6 @@ A simple, stylish calculator built with **HTML**, **CSS**, and a bit of **JavaSc
 
 ---
 
-## Demo
-
-![Calculator Screenshot](screenshot.png)  
-*(Add a screenshot of your calculator here for better visibility)*
-
----
-
 ## Usage
 
 1. Clone the repository:
